@@ -2,7 +2,7 @@ Copyright © 2026 [Payton Murdock]. All rights reserved. This software and its s
 
 YouTube: https://www.youtube.com/@paytonmurdockofficial
 Payton Murdock Official™
-Blue Thread Engine™
+Gold Thread Engine™
 
 This project uses raylib, which is licensed under an unmodified zlib/libpng license. 
 raylib - Copyright (c) 2013-2026 Ramon Santamaria (@raysan5) 
